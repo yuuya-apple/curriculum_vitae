@@ -3,8 +3,8 @@
 ## 個人データ
 - 氏名 : 河原 佑弥
 - 年齢 : 26歳
-- GitHub : https://github.com/yuuya-apple
-- Qiita : https://qiita.com/yuuya-apple
+- GitHub : [https://github.com/yuuya-apple](https://github.com/yuuya-apple)
+- Qiita : [https://qiita.com/yuuya-apple](https://qiita.com/yuuya-apple)
 
 ## 職務経歴
 ### 株式会社フォーカスシステムズ(2020/04〜現在)
