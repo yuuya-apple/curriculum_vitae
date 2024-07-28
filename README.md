@@ -47,17 +47,20 @@
 
 ## スキル
 ### Java
-- v8-11を4年経験。SpringBootによるWebアプリケーションを開発。
-- マイクロサービスにおけるREST APIの開発を主に従事。
+- v8-11を4年経験。SpringBootによるWebアプリケーション開発を経験。
+- マイクロサービスにおけるREST APIの開発が主。
 ### Google Apps Script
 - 半年ほど経験。主に社内用便利ツールの作成に使用。
 - 外部APIとの連携やWebhookのコールなどをメインに使用。
 ### Ruby
-- [Happiness Chain](https://happiness-chain.com/)にて100時間ほどの学習。主にRuby on Rails7を学習。
+- 独学で120時間ほどの学習。主にRuby on Rails7を学習。
 - 簡易的なECサイトやX（旧Twitter）のクローンアプリケーションなどを作成。
 ### HTML & CSS
-- [Happiness Chain](https://happiness-chain.com/)にて50時間ほど学習。
-- デザインはBootstrapをメインに、足りない部分をcssで補う形で学習。
+- 独学で70時間ほど学習。
+- Bootstrapをメインにcssを充てて、足りない部分を補足で自作のcss。
+### JavaScript
+- 独学で30時間ほど学習。
+- 生JSで、ちょっとした動きのある画面を作成。
 ### Git
 - 業務や日常の学習で使用。
 ### Docker
